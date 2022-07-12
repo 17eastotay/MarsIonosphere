@@ -11,3 +11,5 @@ Most of the files are not attached out of privacy of the University of Kansas an
 Other than the readme and the two files mentioned above, I have attached the data I collected in graph form of the two exoplanets and base mars. The data I obtained can be categorized in two groups, the production rates and the electron densities wrt the altitudes. All files are labeled accordingly except the production rates for the exoplanets (Quiet, Flare) are at 1 AU and the real brown dwarf data is at .088 AU. These production rates can be seen in .088flare and .088quiet.
 
 If there are any questions contact me at taylorrayeaston@gmail.com or on my linkedin.
+
+PS: The excel files were used to convert data into graphs via python.
