@@ -3,7 +3,8 @@ Mars' Ionospheric chemical and physical data derived from Fortran code based on 
 
 The Mephot.f file is a fortran file that is designed Program for the calculation of the photoelectron production energy spectrum, at specified altitudes. This file is a collaborative file created by my colleagues and those before me at the University of Kansas. 
 
-The jpce.f08 file builds upon prior code from a titan project to create a chemical environment for the ionosphere of mars that can be used to derive production rates of ions, combination rates of these ions, and the chemical make up of the ionosphere based on the energies created by these combinations.
+The jpce.f08 file builds upon prior code from a titan project to create a chemical environment for the ionosphere of mars that can be used to derive production rates of ions, combination rates of these ions, and the chemical make up of the ionosphere based on the energies created by these combinations. This file is also a collaborative file created by my colleagues and those before me at the University of Kansas. 
+
 
 Most of the files are not attached out of privacy of the University of Kansas and my colleagues. This code batch is just to show the data I obtained from my time during research and what I can offer to future employers.
 
