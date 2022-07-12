@@ -1,5 +1,5 @@
 # Mars' Ionosphere Simulations
-Mars' Ionospheric chemical and physical data based on Fortran code based on actual ionospheric make up and ionospheric make up of two exoplanets (Flared Brown Dwarf / Quiet Brown Dwarf)
+Mars' Ionospheric chemical and physical data derived from Fortran code based on actual ionospheric make up and ionospheric make up of two exoplanets (Flared Brown Dwarf / Quiet Brown Dwarf)
 
 The Mephot.f file is a fortran file that is designed Program for the calculation of the photoelectron production energy spectrum, at specified altitudes. This file is a collaborative file created by my colleagues and those before me at the University of Kansas. 
 
