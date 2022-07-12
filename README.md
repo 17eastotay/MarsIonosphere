@@ -7,4 +7,4 @@ The jpce.f08 file builds upon prior code from a titan project to create a chemic
 
 Most of the files are not attached out of privacy of the University of Kansas and my colleagues. This code batch is just to show the data I obtained from my time during research and what I can offer to future employers.
 
-Other than the readme and the two files mentioned above, I have attached the data I collected in graph form of the two exoplanets and base mars. If there are any questions email me at taylorrayeaston@gmail.com or on my linkedin.
+Other than the readme and the two files mentioned above, I have attached the data I collected in graph form of the two exoplanets and base mars. If there are any questions contact me at taylorrayeaston@gmail.com or on my linkedin.
